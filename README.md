@@ -71,7 +71,7 @@ A sample insurance dataset of 10,004 policies, provided as part of an Excel cour
    | 25 to 60 | Adult |
    | Above 60 | Elder |
 
-4. **Created an Active/Inactive column** with a formula comparing each policy's end date to a reference date of **[INSERT DATE], 2024**. Policies ending on or after that date are Active, and earlier ones are Inactive.
+4. **Created an Active/Inactive column** with a formula comparing each policy's end date to a reference date of **December 31st, 2024**. Policies ending on or after that date are Active, and earlier ones are Inactive.
 5. **Built PivotTables** and connected the slicers (Policy Type, Gender, Active/Inactive) to all of them.
 6. **Designed the dashboard:** KPI cards, charts and a key insights box.
 
